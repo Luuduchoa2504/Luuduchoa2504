@@ -14,6 +14,7 @@ Thanks for visiting my Github :)
 
 - Frameworks: &nbsp;  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-333333?style=flat&logo=reactivex&logoColor=B7178C)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
 
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3)
 ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=CC6699)
