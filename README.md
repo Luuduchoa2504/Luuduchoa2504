@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/68781480/197924883-3d2074c7-dc6f-4fc6-b558-7b1612f13a8c.png)
-
 ### Hi there, I am Duc Hoa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 👋
 
 I have been a Front - End Engineer for 1 year of experience in the website platforms, including 7 months of experience with Angular (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
