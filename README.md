@@ -23,6 +23,8 @@ Thanks for visiting my Github :)
 
 - Operating Systems:  &nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=0078D4)
+
 
 #### Connect with me: ####
 <a href="https://www.linkedin.com/in/ldhoa2504/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ldhoa2504" height="25" width="35" />
