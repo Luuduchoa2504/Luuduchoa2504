@@ -1,3 +1,5 @@
+<img height="460" width="900" src="https://raw.githubusercontent.com/doTruongGiang-IT/doTruongGiang-IT/main/code.gif" />
+
 ### Hi there, I am Duc Hoa <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 👋
 
 I have been a Front - End Engineer for 1 year of experience in the website platforms, including 7 months of experience with Angular (HTML5, SCSS, Typescript) and ReactiveX (RxJS).
